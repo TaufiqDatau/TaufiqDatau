@@ -3,7 +3,7 @@
 I'm **Taufiqurrahman Hafiidh Datau**, a passionate Software Engineer specializing in both frontend and backend development. I enjoy solving complex problems, building scalable applications, and continuously learning new technologies.
 
 ## 🔧 Tech Stack
-- **Backend:** .NET C#, Go, Node JS, Java Springboot  
+- **Backend:** .NET C#, Go, Node JS, Java Springboot, Python 
 - **Frontend:** JavaScript, TypeScript, Angular, React, Next.js  
 
 ## 🚀 What I'm Working On
